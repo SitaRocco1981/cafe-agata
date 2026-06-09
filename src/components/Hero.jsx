@@ -30,7 +30,7 @@ export default function Hero() {
 
         {/* Botón CTA */}
         <motion.a
-          href="#menu" 
+          href="/docs/Menú Café Ágata.pdf" target="_blank" rel="noopener noreferrer"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.5 }}

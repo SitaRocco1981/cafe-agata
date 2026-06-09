@@ -36,7 +36,7 @@ export default function Menu() {
 
         {/* Botón CTA */}
         <a
-          href="#menu-detail" 
+          href="/docs/Menú Café Ágata.pdf" target="_blank" rel="noopener noreferrer"
           className="tracking-wide inline-block px-6 py-3 bg-orange-950 text-white font-sans rounded-lg shadow hover:bg-terracota transition"
         >
           Descubre nuestra carta
