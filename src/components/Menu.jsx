@@ -6,7 +6,7 @@ export default function Menu() {
   return (
     <section
       id="menu"
-      className="relative h-screen flex items-center justify-center text-white"
+      className="relative h-screen flex items-center justify-center text-white scroll-mbe-10 "
     >
       {/* Imagen de fondo */}
       <img

@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 
 export default function Location() {
   return (
-    <section id="location" className="bg-orange-50 py-20">
+    <section id="location" className="bg-orange-50 py-20 scroll-mbe-12 ">
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-8 px-6">
         
         {/* Columna izquierda: dirección */}

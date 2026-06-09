@@ -6,7 +6,7 @@ export default function About() {
   return (
     <section
       id="about"
-      className="grid md:grid-cols-2 lg:gap-8 px-4 lg:px-32 py-20  text-texto"
+      className="grid md:grid-cols-2 lg:gap-8 px-4 lg:px-32 py-20  "
     >
       {/* Columna izquierda: video o imagen */}
       <motion.div

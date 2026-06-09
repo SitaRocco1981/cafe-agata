@@ -13,7 +13,7 @@ export default function Gallery() {
   ];
 
   return (
-    <section id="gallery" className="bg-fondo text-texto py-20 px-6">
+    <section id="gallery" className="bg-fondo text-texto py-20 px-6 ">
       {/* Título */}
       <span className="font-sans text-start lg:text-center uppercase tracking-wide mb-2 block px-4 text-pink-950">
           Nuestro espacio

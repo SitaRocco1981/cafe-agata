@@ -20,8 +20,8 @@ export default function Navbar() {
         <Image
           src="/images/logo-cafe.webp"
           alt="Café Ágata Logo"
-          width={120}
-          height={120}
+          width={80}
+          height={80}
           className="rounded mb-2"
         />
 
